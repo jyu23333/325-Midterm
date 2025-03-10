@@ -1,4 +1,6 @@
 # Analyzing 2016 and 2020 Voter Registration of multple states across the US   
+This repository contains code to reproduce the conclusions and data visualizations regarding voter registration across the US in 2016 and 2020.
+
 The data used in my analysis can be found in the  `data` folder.
 
 The Notebook for analysis in available in the `notebook` folder.
