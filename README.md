@@ -11,9 +11,9 @@ This folder contains all the data was used in the notebook
 | Folder                | Description                                                                         |
 |:----------------------|:------------------------------------------------------------------------------------|
 | `Map_Info`         | Map of the US provided by intstructor                                  |
-| `Voter_Info` | Voter Registration information                                    |
+| `Voter_Info` | Voter Registration data                                    |
 
 # Notebook
 | Folder                | Description                                                                         |
 |:----------------------|:------------------------------------------------------------------------------------|
-| `Midterm_Project_325`         |                                   |
+| `Midterm_Project_325`         | This notebook analyzes and answers several questions regarding the data analysis providing a few data visualizations|
