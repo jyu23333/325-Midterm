@@ -10,3 +10,5 @@ This folder contains all the data was used in the notebook
 
 Map_Info: Map of the US provided by intstructor
 Voter_Info: Voter Registration information
+
+# Notebook
