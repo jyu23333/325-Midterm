@@ -10,8 +10,8 @@ This folder contains all the data was used in the notebook
 
 | Folder                | Description                                                                         |
 |:----------------------|:------------------------------------------------------------------------------------|
-| `Map_Info`         | Map of the US provided by intstructor                                  |
-| `Voter_Info` | Voter Registration data                                    |
+| `Map_Info`         | Map of the US provided by intstructor used to create the data visualization        |
+| `Voter_Info` | File containing the voter registration data used in the notebook                              |
 
 # Notebook
 | Folder                | Description                                                                         |
