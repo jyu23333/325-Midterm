@@ -16,4 +16,4 @@ This folder contains all the data was used in the notebook
 # Notebook
 | Folder                | Description                                                                         |
 |:----------------------|:------------------------------------------------------------------------------------|
-| `Midterm_Project_325`         | This notebook provides an in-depth analysis of the dataset and answers several key questions related to the data including several data visualizations|
+| `Midterm_Project_325`         | This notebook provides an in-depth analysis of the dataset, answers several key questions related to the data, and includeds several data visualizations|
