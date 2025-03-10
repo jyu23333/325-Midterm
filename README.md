@@ -5,7 +5,7 @@ The Notebook for analysis in available in the `notebook` folder.
 
 No external installations are required,only google collab
 
-#Data
+# Data
 This folder contains all the data was used in the notebook
 
 Map_Info: Map of the US provided by intstructor
