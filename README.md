@@ -14,3 +14,6 @@ This folder contains all the data was used in the notebook
 | `Voter_Info` | Voter Registration information                                    |
 
 # Notebook
+| Folder                | Description                                                                         |
+|:----------------------|:------------------------------------------------------------------------------------|
+| `Midterm_Project_325`         |                                   |
