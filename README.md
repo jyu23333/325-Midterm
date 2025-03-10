@@ -8,7 +8,9 @@ No external installations are required,only google collab
 # Data
 This folder contains all the data was used in the notebook
 
-Map_Info: Map of the US provided by intstructor
-Voter_Info: Voter Registration information
+| Folder                | Description                                                                         |
+|:----------------------|:------------------------------------------------------------------------------------|
+| `Map_Info:`         | Map of the US provided by intstructor                                  |
+| `Voter_Info` | Voter Registration information                                    |
 
 # Notebook
